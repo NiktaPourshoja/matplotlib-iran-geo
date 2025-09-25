@@ -9,3 +9,16 @@ It is built using **Python**, **matplotlib**, and **Basemap**.
 1. Clone this repository:
    ```bash
    git clone https://github.com/NiktaPourshoja/matplotlib-iran-geo.git
+2.Navigate into the project folder:
+
+cd matplotlib-iran-geo
+
+
+3.Install required packages:
+
+pip install matplotlib basemap
+
+
+4.Run the Python script:
+
+python basemap.py
